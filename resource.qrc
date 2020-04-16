@@ -1,0 +1,35 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/Bg.png</file>
+        <file>image/bullet.png</file>
+        <file>image/Default.png</file>
+        <file>image/enemy.png</file>
+        <file>image/icon_gold.png</file>
+        <file>image/icon_HP.png</file>
+        <file>image/open_spot.png</file>
+        <file>image/tower.png</file>
+        <file>config/Info.plist</file>
+        <file>config/TowersPosition.plist</file>
+        <file>config/Waves.plist</file>
+        <file>image/map2.png</file>
+        <file>image/map.png</file>
+        <file>image/wizard.png</file>
+        <file>image/arrowtower.png</file>
+        <file>image/dragon.png</file>
+        <file>image/dragon1.png</file>
+        <file>image/boomtower.png</file>
+        <file>image/groud.png</file>
+        <file>image/guard.png</file>
+        <file>image/magictower.png</file>
+        <file>image/pheonix.gif</file>
+        <file>image/fire.png</file>
+        <file>image/fireball.png</file>
+        <file>config/PurpleTowersPosition.plist</file>
+        <file>config/RedTowersPosition.plist</file>
+        <file>config/BlueTowersPosition.plist</file>
+        <file>image/bu.png</file>
+        <file>image/bu1.png</file>
+        <file>image/bu2.png</file>
+        <file>image/cxk.png</file>
+    </qresource>
+</RCC>
